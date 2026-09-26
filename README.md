@@ -4,7 +4,7 @@
 
 This repo is a public proof shelf: practical control artefacts you can read in minutes — not a product pitch and not legal advice.
 
-Maintained by [Tony Whelan](https://github.com/anwhelan01) · AI SSAG Architect · Liverpool, UK · `tonywhelan.ai@gmail.com`
+Maintained by [Tony Whelan](https://github.com/k3ss-official) · AI SSAG Architect · Liverpool, UK · `tonywhelan.ai@gmail.com`
 
 ## Why this exists
 
